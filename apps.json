@@ -1,0 +1,46 @@
+{
+  "apps": [
+    {
+      "name": "Winner",
+      "version": "1.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/Winner.zip",
+      "type": "zip"
+    },
+    {
+      "name": "Winner AutoLogin",
+      "version": "4.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/WinnerAutoLogin_V4_With_Icon.zip",
+      "type": "zip"
+    },
+    {
+      "name": "Proxy Sport iBet SBOBET",
+      "version": "1.11.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/Proxy_Sport_iBet_SBOBET_v1.11.0.zip",
+      "type": "zip"
+    },
+    {
+      "name": "PS3838 Manager",
+      "version": "23",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/PS3838_Manager_Combined_v23_MoveWithoutTabSwitch_RemoveAll.zip",
+      "type": "zip"
+    },
+    {
+      "name": "WinCom2017 Cloud",
+      "version": "1.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/WinCom2017_Cloud.1.zip",
+      "type": "zip"
+    },
+    {
+      "name": "WinCopy",
+      "version": "1.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/WinCopy.zip",
+      "type": "zip"
+    },
+    {
+      "name": "IP Việt Nam",
+      "version": "1.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/IP.Viet.Nam.url",
+      "type": "file"
+    }
+  ]
+}
