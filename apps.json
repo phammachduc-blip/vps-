@@ -9,19 +9,20 @@
     {
       "name": "Winner AutoLogin",
       "version": "4.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/WinnerAutoLogin_V4_With_Icon.zip",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/WinnerAutoLogin.zip",
       "type": "zip"
     },
     {
-      "name": "Proxy Sport iBet SBOBET",
+      "name": "Proxy Sport",
       "version": "1.11.0",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/Proxy_Sport_iBet_SBOBET_v1.11.0.zip",
-      "type": "zip"
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/Proxy_Sport.zip",
+      "type": "zip",
+      "password": "168168"
     },
     {
       "name": "PS3838 Manager",
       "version": "23",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.0/PS3838_Manager_Combined_v23_MoveWithoutTabSwitch_RemoveAll.zip",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/PS3838_Manager.zip",
       "type": "zip"
     },
     {
