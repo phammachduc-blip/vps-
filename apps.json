@@ -20,9 +20,15 @@
       "password": "168168"
     },
     {
-      "name": "PS3838 Manager",
-      "version": "23",
-      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/PS3838_Manager.zip",
+      "name": "Sports Manager",
+      "version": "1.1",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/SPORTS_MANAGER_FINAL_LOGIN_ALIGNED.zip",
+      "type": "zip"
+    },
+    {
+      "name": "Proxy Xoay",
+      "version": "1.0",
+      "url": "https://github.com/phammachduc-blip/vps-/releases/download/V1.1/ProxyXoay.zip",
       "type": "zip"
     },
     {
